@@ -666,6 +666,36 @@
   },
   "abilities": [
     {
+      "abilityID": "Avatar_PlayerGirl_ExtraAttack_Electric",
+      "abilityName": "Avatar_PlayerGirl_ExtraAttack_Electric",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Player_Electric_ElementalArt_Click",
+      "abilityName": "Avatar_Player_Electric_ElementalArt_Click",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_PlayerGirl_ExtraAttack_Rock",
+      "abilityName": "Avatar_PlayerGirl_ExtraAttack_Rock",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Player_Hogyoku",
+      "abilityName": "Avatar_Player_Hogyoku",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_Player_Hogyoku_ChargeStrike",
+      "abilityName": "Avatar_Player_Hogyoku_ChargeStrike",
+      "abilityOverride": ""
+    },
+    {
+      "abilityID": "Avatar_PlayerGirl_ExtraAttack_Wind",
+      "abilityName": "Avatar_PlayerGirl_ExtraAttack_Wind",
+      "abilityOverride": ""
+    },
+    {
       "abilityID": "Avatar_PlayerGirl_NormalAttack_DamageHandler",
       "abilityName": "Avatar_PlayerGirl_NormalAttack_DamageHandler",
       "abilityOverride": ""
